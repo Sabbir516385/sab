@@ -5,7 +5,7 @@ int main()
 
     for(i=0;i<20;i++)
     {
-        printf("love you masuma :)\n");
+        printf("love you :)\n");
 
     }
 
